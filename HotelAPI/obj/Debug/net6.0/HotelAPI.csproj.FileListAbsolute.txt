@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.AssemblyInfo.cs
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\.net\HotelAPI\obj\Debug\net6.0\HotelAPI.MvcApplicationPartsAssemblyInfo.cache
